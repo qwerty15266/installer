@@ -41,7 +41,7 @@ MYSQL_PASSWORD="somePassword"
 
 ASSUME_SSL=false
 
-PANEL_URL="https://github.com/pterodactyl/panel/releases/download/$VERSION/panel.tar.gz"
+PANEL_URL="https://github.com/pterodactyl/panel/releases/download/v1.7.0/panel.tar.gz"
 CONFIGS_URL="https://raw.githubusercontent.com/kvsqex/pterodactyl.install/master/configs"
 
 SOURCES_PATH="/etc/apt/sources.list"
